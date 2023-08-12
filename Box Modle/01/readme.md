@@ -1,0 +1,4 @@
+#box modle
+###Everything displayed by CSS is a box. Understanding how the CSS Box Model works is therefore a core foundation of CSS.
+The content would break out of your element and it would be 142px wide, rather than 100px. Why is that? The box model is a core foundation of CSS and understanding how it works, how it is affected by other aspects of CSS and importantly, how you can control it will help you to write more predictable CSS.
+A really important thing to remember when writing CSS, or working on the web as a whole, is that everything displayed by CSS is a box. Whether that's a box that uses border-radius to look like a circle, or even just some text: the key thing to remember is that it's all boxes.
